@@ -109,4 +109,7 @@ Healthcare data analysis requires careful attention to ethics:
 
 Evaluation beyond accuracy (e.g., F1-score and AUC) and transparent model interpretation were used to reduce ethical risk.
 
+### Technical Difficulties
+I have attached the pictures of Visualization since these are empty on the github repo 
+Please refer to `Screenshots` Folder
 ---
